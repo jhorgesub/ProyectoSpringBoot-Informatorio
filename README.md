@@ -1,3 +1,3 @@
-# ProyectoSpring-Informatorio
+# ProyectoSpringBoot-Informatorio
 
-Proyecto Spring de ejemplo para Informatorio-Chaco 2021
+Proyecto Spring Boot de ejemplo para Informatorio-Chaco 2021
